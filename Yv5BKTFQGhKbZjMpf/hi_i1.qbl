@@ -1,0 +1,388 @@
+{
+	"fileName": "hi_i1.qbl",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "300a269a-b7f6-06b5-7564-42142cf60bd7",
+			"fileItemDate": "2019-02-25T08:50:06.662Z",
+			"fileItemCollections": [
+				"Yv5BKTFQGhKbZjMpf"
+			],
+			"fileItemCollectionsForTranslation": [
+				"Yv5BKTFQGhKbZjMpf"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "2QJ324WMpdgTSM2mc",
+			"possibleLanguages": [
+				"hNL5XJFCsuTSsyGmm",
+				"hEQvDs9xbJokgBbyR",
+				"2QJ324WMpdgTSM2mc"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "7ffda67b-2e8a-cda4-4313-79e724472743",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"Yv5BKTFQGhKbZjMpf"
+						],
+						"fieldIsEditableCollections": [
+							"Yv5BKTFQGhKbZjMpf"
+						],
+						"fieldIsRequiredCollections": [
+							"Yv5BKTFQGhKbZjMpf"
+						],
+						"fieldIsMultipleCollections": [
+							"Yv5BKTFQGhKbZjMpf"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Video content?",
+						"fieldKey": "a603398d-c67e-f8d2-6c55-56bf41db56ac",
+						"fieldValues": [
+							{
+								"public_id": "UAT_301c30e3-a455-bad4-ada8-a5dd4d5df428/ffmpeged_modernFamily_ajngbp_bhjkit",
+								"version": 1551084525,
+								"signature": "5067ee1a2b503623826f32df87ea2f0f462b4786",
+								"width": 480,
+								"height": 360,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2019-02-25T08:48:45Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 988897,
+								"type": "upload",
+								"etag": "609d5b519a601c1bfbf339d77d5499da",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1551084525/UAT_301c30e3-a455-bad4-ada8-a5dd4d5df428/ffmpeged_modernFamily_ajngbp_bhjkit.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1551084525/UAT_301c30e3-a455-bad4-ada8-a5dd4d5df428/ffmpeged_modernFamily_ajngbp_bhjkit.mp4",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "95999",
+									"frequency": 44100,
+									"channels": 2,
+									"channel_layout": "stereo"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 21,
+									"profile": "High",
+									"bit_rate": "160434",
+									"dar": "4:3"
+								},
+								"is_audio": false,
+								"frame_rate": 24,
+								"bit_rate": 262480,
+								"duration": 30.14,
+								"rotation": 0,
+								"original_filename": "ffmpeged_modernFamily_ajngbp",
+								"path": "v1551084389/UAT_301c30e3-a455-bad4-ada8-a5dd4d5df428/modernFamily_ajngbp.mp4",
+								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1551084389/UAT_301c30e3-a455-bad4-ada8-a5dd4d5df428/modernFamily_ajngbp.jpg",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {
+									"font": "Noto Sans",
+									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nमैं एक शांत हूं\n\n2\n00:00:04,800 --> 00:00:05,900\nआदमी है कि है that's s मेरे\n\n3\n00:00:05,900 --> 00:00:06,300\nफेंग\n\n4\n00:00:07,400 --> 00:00:07,800\nमैं हूं\n\n5\n00:00:07,800 --> 00:00:08,900\nयहां 5 मैं सर्फ\n\n6\n00:00:08,900 --> 00:00:09,400\nवेब मैं\n\n7\n00:00:09,400 --> 00:00:10,600\nपाठ योग्य\n\n8\n00:00:10,600 --> 00:00:11,400\nज़ोर की हँसी\n\n9\n00:00:11,400 --> 00:00:12,700\nOMG ओह मेरे\n\n10\n00:00:12,700 --> 00:00:13,700\nभगवान wtf\n\n11\n00:00:13,700 --> 00:00:14,700\nक्यों faze\n\n12\n00:00:14,700 --> 00:00:16,800\nतुंहें पता है मैं\n\n13\n00:00:16,800 --> 00:00:17,900\nजानिए सभी नृत्यों को ऊँचा\n\n14\n00:00:17,900 --> 00:00:18,800\nस्कूल संगीत\n\n15\n00:00:18,800 --> 00:00:19,900\nहम सब\n\n16\n00:00:19,900 --> 00:00:20,800\nइस में\n\n17\n00:00:20,800 --> 00:00:21,600\nसाथ-साथ\n\n18\n00:00:21,600 --> 00:00:23,800\nहां, हम कर रहे है\n\n19\n00:00:23,800 --> 00:00:24,700\nहम सब\n\n20\n00:00:24,700 --> 00:00:25,900\nतारे और\n\n21\n00:00:25,900 --> 00:00:26,800\nआप\n\n22\n00:00:26,800 --> 00:00:27,700\nपता है कि यह\n",
+									"parsed": [
+										{
+											"start": 3000,
+											"end": 4800,
+											"text": "मैं एक शांत हूं"
+										},
+										{
+											"start": 4800,
+											"end": 5900,
+											"text": "आदमी है कि है that's s मेरे"
+										},
+										{
+											"start": 5900,
+											"end": 6300,
+											"text": "फेंग"
+										},
+										{
+											"start": 7400,
+											"end": 7800,
+											"text": "मैं हूं"
+										},
+										{
+											"start": 7800,
+											"end": 8900,
+											"text": "यहां 5 मैं सर्फ"
+										},
+										{
+											"start": 8900,
+											"end": 9400,
+											"text": "वेब मैं"
+										},
+										{
+											"start": 9400,
+											"end": 10600,
+											"text": "पाठ योग्य"
+										},
+										{
+											"start": 10600,
+											"end": 11400,
+											"text": "ज़ोर की हँसी"
+										},
+										{
+											"start": 11400,
+											"end": 12700,
+											"text": "OMG ओह मेरे"
+										},
+										{
+											"start": 12700,
+											"end": 13700,
+											"text": "भगवान wtf"
+										},
+										{
+											"start": 13700,
+											"end": 14700,
+											"text": "क्यों faze"
+										},
+										{
+											"start": 14700,
+											"end": 16800,
+											"text": "तुंहें पता है मैं"
+										},
+										{
+											"start": 16800,
+											"end": 17900,
+											"text": "जानिए सभी नृत्यों को ऊँचा"
+										},
+										{
+											"start": 17900,
+											"end": 18800,
+											"text": "स्कूल संगीत"
+										},
+										{
+											"start": 18800,
+											"end": 19900,
+											"text": "हम सब"
+										},
+										{
+											"start": 19900,
+											"end": 20800,
+											"text": "इस में"
+										},
+										{
+											"start": 20800,
+											"end": 21600,
+											"text": "साथ-साथ"
+										},
+										{
+											"start": 21600,
+											"end": 23800,
+											"text": "हां, हम कर रहे है"
+										},
+										{
+											"start": 23800,
+											"end": 24700,
+											"text": "हम सब"
+										},
+										{
+											"start": 24700,
+											"end": 25900,
+											"text": "तारे और"
+										},
+										{
+											"start": 25900,
+											"end": 26800,
+											"text": "आप"
+										},
+										{
+											"start": 26800,
+											"end": 27700,
+											"text": "पता है कि यह"
+										}
+									],
+									"asset": {
+										"public_id": "UAT_301c30e3-a455-bad4-ada8-a5dd4d5df428/ffmpeged_modernFamily_ajngbp_bhjkit_hi_wjsu.srt",
+										"version": 1551084609,
+										"signature": "e8e4c7516abc180f379c07dbd469e8ff4005fbe3",
+										"resource_type": "raw",
+										"created_at": "2019-02-25T08:50:09Z",
+										"tags": [],
+										"bytes": 1360,
+										"type": "upload",
+										"etag": "6041c7d467bca83360a0727e4c0a1566",
+										"placeholder": false,
+										"url": "http://res.cloudinary.com/qblm/raw/upload/v1551084609/UAT_301c30e3-a455-bad4-ada8-a5dd4d5df428/ffmpeged_modernFamily_ajngbp_bhjkit_hi_wjsu.srt",
+										"secure_url": "https://res.cloudinary.com/qblm/raw/upload/v1551084609/UAT_301c30e3-a455-bad4-ada8-a5dd4d5df428/ffmpeged_modernFamily_ajngbp_bhjkit_hi_wjsu.srt",
+										"access_mode": "public"
+									},
+									"isAttached": true,
+									"size": 16,
+									"originalCaptionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a cool\n\n2\n00:00:04,800 --> 00:00:05,900\nguy that's that's my\n\n3\n00:00:05,900 --> 00:00:06,300\nFang\n\n4\n00:00:07,400 --> 00:00:07,800\nI'm\n\n5\n00:00:07,800 --> 00:00:08,900\nhere 5 i surf\n\n6\n00:00:08,900 --> 00:00:09,400\nthe web I\n\n7\n00:00:09,400 --> 00:00:10,600\ntext LOL\n\n8\n00:00:10,600 --> 00:00:11,400\nlaugh out loud\n\n9\n00:00:11,400 --> 00:00:12,700\nOMG oh my\n\n10\n00:00:12,700 --> 00:00:13,700\nGod WTF\n\n11\n00:00:13,700 --> 00:00:14,700\nwhy the FaZe\n\n12\n00:00:14,700 --> 00:00:16,800\nyou know I\n\n13\n00:00:16,800 --> 00:00:17,900\nknow all the dances High\n\n14\n00:00:17,900 --> 00:00:18,800\nSchool Musical\n\n15\n00:00:18,800 --> 00:00:19,900\nWe're All\n\n16\n00:00:19,900 --> 00:00:20,800\nin This\n\n17\n00:00:20,800 --> 00:00:21,600\nTogether\n\n18\n00:00:21,600 --> 00:00:23,800\nyes we are\n\n19\n00:00:23,800 --> 00:00:24,700\nwe're all\n\n20\n00:00:24,700 --> 00:00:25,900\nstars and\n\n21\n00:00:25,900 --> 00:00:26,800\nyou\n\n22\n00:00:26,800 --> 00:00:27,700\nknow it\n"
+								},
+								"transformedURLs": [
+									"https://res.cloudinary.com/qblm/video/upload/v1551084389/UAT_301c30e3-a455-bad4-ada8-a5dd4d5df428/modernFamily_ajngbp.mp4",
+									"https://res.cloudinary.com/qblm/video/upload/v1551084448/UAT_301c30e3-a455-bad4-ada8-a5dd4d5df428/ffmpeged_modernFamily_ajngbp_wvqcxd.mp4",
+									"https://res.cloudinary.com/qblm/video/upload/v1551084525/UAT_301c30e3-a455-bad4-ada8-a5dd4d5df428/ffmpeged_modernFamily_ajngbp_bhjkit.mp4"
+								],
+								"transformedPublicIds": [
+									"UAT_301c30e3-a455-bad4-ada8-a5dd4d5df428/modernFamily_ajngbp",
+									"UAT_301c30e3-a455-bad4-ada8-a5dd4d5df428/ffmpeged_modernFamily_ajngbp_wvqcxd",
+									"UAT_301c30e3-a455-bad4-ada8-a5dd4d5df428/ffmpeged_modernFamily_ajngbp_bhjkit"
+								],
+								"embed": {
+									"width": 480,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "modernfamily"
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "approved",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "d16e3f82-227e-cd0d-0dd7-6af1f2008d9b",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"Yv5BKTFQGhKbZjMpf"
+						],
+						"fieldIsEditableCollections": [
+							"Yv5BKTFQGhKbZjMpf"
+						],
+						"fieldIsRequiredCollections": [
+							"Yv5BKTFQGhKbZjMpf"
+						],
+						"fieldIsMultipleCollections": [
+							"Yv5BKTFQGhKbZjMpf"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Audio content?",
+						"fieldKey": "b6a0e5bf-598f-7b0f-d678-52b48db2e630",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "fc0759dd-aa72-3fd5-bd82-d19e4ab19e18",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"Yv5BKTFQGhKbZjMpf"
+						],
+						"fieldIsEditableCollections": [
+							"Yv5BKTFQGhKbZjMpf"
+						],
+						"fieldIsRequiredCollections": [
+							"Yv5BKTFQGhKbZjMpf"
+						],
+						"fieldIsMultipleCollections": [
+							"Yv5BKTFQGhKbZjMpf"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Image content?",
+						"fieldKey": "c1926ac3-b1ac-f0d1-3674-31f31741a139",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "f1f30123-a275-ba9e-bea5-39155f482078",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"Yv5BKTFQGhKbZjMpf"
+						],
+						"fieldIsEditableCollections": [
+							"Yv5BKTFQGhKbZjMpf"
+						],
+						"fieldIsRequiredCollections": [
+							"Yv5BKTFQGhKbZjMpf"
+						],
+						"fieldIsMultipleCollections": [
+							"Yv5BKTFQGhKbZjMpf"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Text content?",
+						"fieldKey": "af44c54f-78b3-d121-0da7-d71119e98b4a",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
